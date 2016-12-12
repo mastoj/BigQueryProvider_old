@@ -1,0 +1,25 @@
+type project
+title
+    BigQueryProvider
+owners
+    Author not set
+authors 
+    Author not set
+projectUrl
+    https://github.com/mastoj/BigQueryProvider
+iconUrl
+    https://raw.githubusercontent.com/mastoj/BigQueryProvider/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/mastoj/BigQueryProvider/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    Summary not set
+description
+    Description not set
+
+
